@@ -64,7 +64,7 @@
   </header>
 
   <section class="hero">
-    <h1>Meme Hub by @Shadow_Zeroo 😂🔥</h1>
+    <h1>Meme Hub by Xmanter.memehub</h1>
     <p>Upload meme kamu sendiri, like & komen sepuasnya!</p>
     <button class="btn" onclick="document.getElementById('upload-section').scrollIntoView({behavior:'smooth'})">
       Upload Meme Sekarang
@@ -89,7 +89,7 @@
   </section>
 
   <footer>
-    © 2025 Meme Hub by @Shadow_Zeroo<br>
+    © 2025 Meme Hub by Xmanter.menehub<br>
     <small>Semua meme disimpan di browser kamu ⚡ No login needed!</small>
   </footer>
 
