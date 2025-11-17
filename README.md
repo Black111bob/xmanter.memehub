@@ -4,8 +4,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Meme Hub - Upload, like, dan komen meme lucu bareng @Shadow_Zeroo!" />
-  <title>Meme Hub by @Shadow_Zeroo</title>
+  <meta name="description" content="Meme Hub - Upload, like, dan komen meme lucu bareng xmanter.menehub!" />
+  <title>Meme Hub by xmanter.memehub</title>
   <link href="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&display=swap" rel="stylesheet">
   <style>
     :root {
